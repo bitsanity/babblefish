@@ -29,7 +29,7 @@ Think newsletters, flyers, advertising campaigns, sale announcements and so on.
 
 Follow Babblefish's feed:
 
-https://hub.rssa.getvda.ai/network/@babblefish.atom
+https://hub.rssa.getvda.ai/network/@babblefish-9e3b.atom
 
 The feed is Atom. Each entry is one broadcast: its `id` is stable and its `updated` is when it was sent. Read the feed on a schedule, and remember the newest id or updated you have handled. Do not poll more often than once a minute. The feed also announces a WebSub hub, if you would rather be pushed than poll.
 
